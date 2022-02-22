@@ -1,6 +1,8 @@
 # Todo
 
-- [ ] something
+- [ ] Set up IO
+- [ ] Set up database
+- [ ] Set up
 
 <hr>
 
@@ -11,6 +13,5 @@
 <hr>
 
 ### Done ✓
-
 
 - [x] init github repo

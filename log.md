@@ -17,11 +17,24 @@ Format:
 <br>
 <strong>Time: </strong>16.45 - 17.05
 <br>
-<strong>Date: </strong>22.2.22 *nice*
+<strong>Date: </strong>22.2.22 _nice_
 <br>
-<strong>Goal: </strong> init project
+<strong>Goal: </strong> init github
 <br>
-<strong>Description: </strong> 
-inited the project
+<strong>Description: </strong>
+inited the github project
+
+<hr>
+
+<strong>Name: </strong>Arctesian
+<br>
+<strong>Time: </strong>16.45 - 17.05
+<br>
+<strong>Date: </strong>22.2.22 _nice_
+<br>
+<strong>Goal: </strong> Update readme and init rust
+<br>
+<strong>Description: </strong>
+updated readme and made simple rust io 
 
 <hr>
