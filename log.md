@@ -38,3 +38,17 @@ inited the github project
 updated readme and made simple rust io 
 
 <hr>
+
+
+<strong>Name: </strong>Arctesian
+<br>
+<strong>Time: </strong>22.10 - 23:17
+<br>
+<strong>Date: </strong>25.2.22
+<br>
+<strong>Goal: </strong>Get promts working in rust
+<br>
+<strong>Description: </strong>
+
+Hey its working this is cool
+<hr>

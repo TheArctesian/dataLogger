@@ -1,17 +1,16 @@
 # Todo
 
-- [ ] Set up IO
-- [ ] Set up database
-- [ ] Set up
+- [ ] ENCRYPTION
 
 <hr>
 
 ### In Progress 🚧
 
-- [ ] something
+- [ ] Set up database
 
 <hr>
 
 ### Done ✓
 
-- [x] init github repo
+- [x] ~~init github repo~~
+- [x] ~~set up io~~
