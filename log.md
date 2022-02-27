@@ -35,10 +35,9 @@ inited the github project
 <strong>Goal: </strong> Update readme and init rust
 <br>
 <strong>Description: </strong>
-updated readme and made simple rust io 
+updated readme and made simple rust io
 
 <hr>
-
 
 <strong>Name: </strong>Arctesian
 <br>
@@ -49,6 +48,19 @@ updated readme and made simple rust io
 <strong>Goal: </strong>Get promts working in rust
 <br>
 <strong>Description: </strong>
-
 Hey its working this is cool
+
+<hr>
+
+<strong>Name: </strong>Arctesian
+<br>
+<strong>Time: </strong>22.10 - 23:17
+<br>
+<strong>Date: </strong>25.2.22
+<br>
+<strong>Goal: </strong>fix result enum
+<br>
+<strong>Description: </strong>
+Changed result enum to bool type
+
 <hr>
