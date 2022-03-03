@@ -64,3 +64,15 @@ Hey its working this is cool
 Changed result enum to bool type
 
 <hr>
+
+<strong>Name: </strong>Arctesian
+<br>
+<strong>Time: </strong>17:00-17:37
+<br>
+<strong>Date: </strong>3.3.22
+<br>
+<strong>Goal: </strong>rest api
+<br>
+<strong>Description: </strong>
+Setup rocket rest api
+<hr>
