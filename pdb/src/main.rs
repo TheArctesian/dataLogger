@@ -22,9 +22,8 @@ fn main() {
     let mut interest : i32 = prompt("Interest").unwrap(); // Get interest
     // Social Input
     let social_interaction = prompt_default("Social interactionc", true).unwrap(); // Get social interaction bool
-    let mut social_interaction_people_count : i32= prompt("Social Interaction People Count").unwrap(); // Get social interaction people count
 
-    postToDB(activity, date_string, time_string, timespent, location, productivity, stress, happiness, energy, interest, social_interaction, social_interaction_people_count);
+    postToDB(activity, date_string, time_string, timespent, location, productivity, stress, happiness, energy, interest, social_interaction);
 
 }
 
@@ -38,8 +37,7 @@ fn main() {
     Happiness : i32, 
     Energy : i32, 
     Interest : i32, 
-    SocialInteraction : bool, 
-    SocialInteractionPeopleCount : i32) {
+    SocialInteraction : bool) {
             println!("{}", Activity);
     println!("{}", Date);
     println!("{}", Time);
@@ -51,7 +49,6 @@ fn main() {
     println!("{}", Energy);
     println!("{}", Interest);
     println!("{}", SocialInteraction);
-    println!("{}", SocialInteractionPeopleCount);
 
 }
     
